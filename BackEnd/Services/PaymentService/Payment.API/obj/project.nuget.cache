@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dn/DGwMrIog=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ctca\\My Private Documents\\ControlPay\\controlpay\\BackEnd\\Services\\PaymentService\\Payment.API\\Payment.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ctca\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\ctca\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

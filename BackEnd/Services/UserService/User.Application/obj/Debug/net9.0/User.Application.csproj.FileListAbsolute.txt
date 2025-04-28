@@ -1,0 +1,16 @@
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\bin\Debug\net9.0\User.Application.deps.json
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\bin\Debug\net9.0\User.Application.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\bin\Debug\net9.0\User.Application.pdb
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\obj\Debug\net9.0\User.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\obj\Debug\net9.0\User.Application.AssemblyInfoInputs.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\obj\Debug\net9.0\User.Application.AssemblyInfo.cs
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\obj\Debug\net9.0\User.Application.csproj.CoreCompileInputs.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\obj\Debug\net9.0\User.Application.sourcelink.json
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\obj\Debug\net9.0\User.Application.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\obj\Debug\net9.0\refint\User.Application.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\obj\Debug\net9.0\User.Application.pdb
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\obj\Debug\net9.0\ref\User.Application.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\bin\Debug\net9.0\User.Domain.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\bin\Debug\net9.0\User.Domain.pdb
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\obj\Debug\net9.0\User.Application.csproj.AssemblyReference.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Application\obj\Debug\net9.0\User.App.1A218819.Up2Date

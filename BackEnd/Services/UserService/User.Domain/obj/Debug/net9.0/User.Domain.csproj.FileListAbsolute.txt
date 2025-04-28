@@ -1,0 +1,13 @@
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\bin\Debug\net9.0\User.Domain.deps.json
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\bin\Debug\net9.0\User.Domain.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\bin\Debug\net9.0\User.Domain.pdb
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\obj\Debug\net9.0\User.Domain.csproj.AssemblyReference.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\obj\Debug\net9.0\User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\obj\Debug\net9.0\User.Domain.AssemblyInfoInputs.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\obj\Debug\net9.0\User.Domain.AssemblyInfo.cs
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\obj\Debug\net9.0\User.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\obj\Debug\net9.0\User.Domain.sourcelink.json
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\obj\Debug\net9.0\User.Domain.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\obj\Debug\net9.0\refint\User.Domain.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\obj\Debug\net9.0\User.Domain.pdb
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\UserService\User.Domain\obj\Debug\net9.0\ref\User.Domain.dll

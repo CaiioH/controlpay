@@ -1,0 +1,16 @@
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\bin\Debug\net9.0\Account.Application.deps.json
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\bin\Debug\net9.0\Account.Application.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\bin\Debug\net9.0\Account.Application.pdb
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\bin\Debug\net9.0\Account.Domain.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\bin\Debug\net9.0\Account.Domain.pdb
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\obj\Debug\net9.0\Account.Application.csproj.AssemblyReference.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\obj\Debug\net9.0\Account.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\obj\Debug\net9.0\Account.Application.AssemblyInfoInputs.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\obj\Debug\net9.0\Account.Application.AssemblyInfo.cs
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\obj\Debug\net9.0\Account.Application.csproj.CoreCompileInputs.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\obj\Debug\net9.0\Account.Application.sourcelink.json
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\obj\Debug\net9.0\Account..4D01FDE4.Up2Date
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\obj\Debug\net9.0\Account.Application.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\obj\Debug\net9.0\refint\Account.Application.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\obj\Debug\net9.0\Account.Application.pdb
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\AccountService\Account.Application\obj\Debug\net9.0\ref\Account.Application.dll

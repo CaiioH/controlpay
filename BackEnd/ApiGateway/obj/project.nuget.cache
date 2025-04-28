@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IWCKmvfPPE0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ctca\\My Private Documents\\ControlPay\\controlpay\\BackEnd\\ApiGateway\\ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ctca\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\ctca\\.nuget\\packages\\yarp.reverseproxy\\2.3.0\\yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
