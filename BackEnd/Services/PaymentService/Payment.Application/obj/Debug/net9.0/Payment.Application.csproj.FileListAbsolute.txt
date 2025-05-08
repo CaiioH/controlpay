@@ -1,0 +1,16 @@
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\bin\Debug\net9.0\Payment.Application.deps.json
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\bin\Debug\net9.0\Payment.Application.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\bin\Debug\net9.0\Payment.Application.pdb
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\bin\Debug\net9.0\Payment.Domain.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\bin\Debug\net9.0\Payment.Domain.pdb
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\obj\Debug\net9.0\Payment.Application.csproj.AssemblyReference.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\obj\Debug\net9.0\Payment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\obj\Debug\net9.0\Payment.Application.AssemblyInfoInputs.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\obj\Debug\net9.0\Payment.Application.AssemblyInfo.cs
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\obj\Debug\net9.0\Payment.Application.csproj.CoreCompileInputs.cache
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\obj\Debug\net9.0\Payment.Application.sourcelink.json
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\obj\Debug\net9.0\Payment..100340DD.Up2Date
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\obj\Debug\net9.0\Payment.Application.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\obj\Debug\net9.0\refint\Payment.Application.dll
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\obj\Debug\net9.0\Payment.Application.pdb
+C:\Users\ctca\My Private Documents\ControlPay\controlpay\BackEnd\Services\PaymentService\Payment.Application\obj\Debug\net9.0\ref\Payment.Application.dll
